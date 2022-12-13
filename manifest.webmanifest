@@ -2,7 +2,7 @@
     "name": "HTML Calculator",
     "short_name": "Calculator",
     "description":"This is HTML Calculator designed by Tejas1505. It can be installed in your mobile phone. ",
-    "start_url": "/",
+    "start_url": "index.html",
     "scope":"/",
     "id":"/",
     "display": "fullscreen",

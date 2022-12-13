@@ -7,7 +7,7 @@
     "id":"/",
     "display": "fullscreen",
     "background_color": "#fdfdfd",
-    "theme_color": "#db4938",
+    "theme_color": "#2659cebe",
     "orientation": "portrait-primary",
     "icons": [
         {

@@ -87,7 +87,7 @@ form {
     background-color: rgba(84, 120, 203, 0.747);
 }
 
-h5{
+.name{
     position: absolute;
     bottom: 1px;
     right: 1px;

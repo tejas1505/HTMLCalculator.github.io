@@ -1,8 +1,8 @@
 var calc_cache = [
-    '/index.html',
-    '/script.js',
-    '/CSS/style.css',
-    '/sw.js'
+    'index.html',
+    'script.js',
+    'CSS/style.css',
+    'sw.js'
 ]
 
 self.addEventListener('install', e =>{

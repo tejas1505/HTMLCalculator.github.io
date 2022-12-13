@@ -2,7 +2,12 @@ var calc_cache = [
     'index.html',
     'script.js',
     'CSS/style.css',
-    'sw.js'
+    'sw.js',
+    'Images/logo.png',
+    'Images/logo144.png',
+    'Images/logo512.png',
+    'Images/logo44.png',
+    'Images/logo192.png'
 ]
 
 self.addEventListener('install', e =>{
